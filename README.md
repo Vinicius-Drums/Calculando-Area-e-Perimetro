@@ -1,4 +1,4 @@
-# Cálculo de Àrea e Perímetro em Java
+# Cálculo de Área e Perímetro em Java
 
 Este é um programa simples em Java para calcular a área e o perímetro de um círculo com base no raio fornecido pelo usuário.
 
