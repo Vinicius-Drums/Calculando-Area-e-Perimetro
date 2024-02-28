@@ -1,10 +1,10 @@
-# Calculo de Area e Perimetro
+# Calculo de Area e Perimetro em Java
 
 Este é um programa simples em Java para calcular a área e o perímetro de um círculo com base no raio fornecido pelo usuário.
 
 ## Instruções de Uso
 
-1. Execute o programa Java `CalculoCirculo.java`.
+1. Execute o programa Java `CalculoDeAreaEPerimetro.java`.
 2. Insira o valor do raio do círculo quando solicitado.
 3. O programa calculará e exibirá a área e o perímetro do círculo.
 
